@@ -1,0 +1,24 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Richard
+tagline:          Blog
+url:              http://richardtetaz.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Richard Tetaz
+  url:            https://twitter.com/richard_tetaz
+  email:          richard.tetaz@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/richardtetaz/richardtetaz.github.io
+
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
