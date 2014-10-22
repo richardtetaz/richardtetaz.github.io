@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invisible Inc
+title: Invisible Inc.
 ---
 
 # Invisible Inc.
