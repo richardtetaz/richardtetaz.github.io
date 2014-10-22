@@ -30,11 +30,13 @@ A son tour de jeu, le joueur dispose de plusieurs actions par personnage:
 - hacker un terminal ou une camera en passant par un mode de vue num&eacute;rique "Incognita"
 - et bien d'autres actions sp&eacute;cifiques aux personnages ou aux objets &eacute;quip&eacute;s.
 
-Chaque fin de tour incremente un pallier de niveau d'alarme. Une alarme comporte 6 palliers. Une fois compl&egrave;te, on passe au niveau d'alarme suivant. Ce dernier rajoute une difficulte supplementaire:
+Le jeu utilise un niveau d'alerte qui augmente en fin de chaque tour poussant le joueur a agir avant que ca ne soit trop difficile. Chaque pallier rajoute une difficulte supplementaire:
 
 - activation de nouvelle camera
 - arrive de nouveau gardes ou robots
 - point d'&eacute;nergie suppl&eacute;mentaire &agrave; consommer pour crocheter des coffres.
+
+Le jeu vous met au defi de ne pas etre detecter, autant que possible, de ne pas tuer les gardes ou alors l'alarme augmente instantanement. Vous pouvez les assomer jusqu'a ce qu'ils reprennent leur esprit et partent a votre recherche.
 
 ![4](http://cdn.akamai.steamstatic.com/steam/apps/243970/ss_74e18e9b00e1adb905daff1c83a4ed53a95e4a7d.1920x1080.jpg)
 
@@ -42,8 +44,10 @@ Un m&eacute;canisme de couverture se rajoute au gameplay, ce qui permet de se d&
 
 ![5](http://cdn.akamai.steamstatic.com/steam/apps/243970/ss_dc3f42a29961e8940dc1ad0e2d6b41615d086115.1920x1080.jpg)
 
-A l'heure ou j'&eacute;cris ces quelques lignes, le jeu est en early access (update 4) pour  16 EUR sur [Steam](http://store.steampowered.com/app/243970/) ou [Humble Store](https://www.humblebundle.com/store/p/invisibleinc_storefront). Il est updat&eacute; r&eacute;gulierement (1 tous les mois) par l'&eacute;quipe du projet. Ils sont tres attentifs aux retours de la communaut&eacute; et [communiquent tres souvent](http://forums.kleientertainment.com/forum/41-invisible-inc-early-access-general-discussion-and-strategies/) sur l'avance du jeu. La version actuelle comprend 6 agents jouables, toute une serie de d'am&eacute;lioration, un mode histoire et un mode sans fin a debloquer.
+A l'heure ou j'&eacute;cris ces quelques lignes, le jeu est en early access (update 4 du 19 aout 2014) pour  16 EUR sur [Steam](http://store.steampowered.com/app/243970/) ou [Humble Store](https://www.humblebundle.com/store/p/invisibleinc_storefront). Il est updat&eacute; r&eacute;gulierement (1 tous les mois) par l'&eacute;quipe du projet. Ils sont tres attentifs aux retours de la communaut&eacute; et [communiquent tres souvent](http://forums.kleientertainment.com/forum/41-invisible-inc-early-access-general-discussion-and-strategies/) sur l'avance du jeu. La version actuelle comprend 6 agents jouables, toute une serie de d'am&eacute;lioration, un mode histoire et un mode sans fin a debloquer.
 
 La bande son n'est pas degueux mais elle est peu variee, esperons que l'equipe du projet l'etoffe par la suite.
 
-Meme en alpha, j'ai jou&eacute; plusieurs heures a ce jeu sans rencontrer de bug. La difficult&eacute; est croissante et il faudra plusieurs heures pour comprendre les mecanismes du jeu et esp&eacute;rer arriver a la fin.
+Meme en alpha, j'ai jou&eacute; plusieurs heures a ce jeu sans rencontrer de bug. La difficult&eacute; est croissante et il faudra plusieurs heures pour comprendre les mecanismes du jeu et esp&eacute;rer arriver a la fin. Chaque geste compte, chaque tour.
+
+Invisible Inc. est un joyau qui ne peut etre comparer, il s'incrit bien seul dans la ligne du jeu en tour par tour furtif.
