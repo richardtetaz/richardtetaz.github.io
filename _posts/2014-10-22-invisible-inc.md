@@ -7,9 +7,9 @@ title: Invisible Inc.
 
 ![1](http://cdn.akamai.steamstatic.com/steam/apps/243970/ss_1952455d229787ece8cffdf82c4f09c12c8125af.1920x1080.jpg)
 
-> Invisible, Incognita. est un jeu d'infiltration tactique hardcore.
+> Invisible, Incognita est un jeu d'infiltration tactique hardcore.
 
-Voici comment il est defini sur sa page Steam. Le joueur contr&ocirc;le des espions d'&eacute;lite qui doivent s'infiltrer dans de puissantes corporations dans un univers retro / cartoon / guerre froide. On fait &eacute;voluer les personnages au tour par tour dans un niveau &agrave; chaque fois diff&eacute;rent. Chaque soci&eacute;t&eacute; que l'on infiltre pr&eacute;sente un nouveau d&eacute;fi.
+Voici comment il est present&eacute; sur sa page [Steam](http://store.steampowered.com/app/243970/). Le joueur contr&ocirc;le des espions d'&eacute;lite qui doivent s'infiltrer dans de puissantes corporations dans un univers retro / cartoon / guerre froide. On fait &eacute;voluer les personnages au tour par tour dans un niveau &agrave; chaque fois diff&eacute;rent. Chaque soci&eacute;t&eacute; que l'on infiltre pr&eacute;sente un nouveau d&eacute;fi.
 
 ### Gameplay
 
@@ -25,9 +25,9 @@ A son tour de jeu, le joueur dispose de plusieurs actions par personnage:
 
 - se d&eacute;placer, en faisant attention &agrave; ne pas entrer dans le champ de vision des gardes.
 - regarder &agrave; travers ou ouvrir une porte.
-- pirater une console pour r&eacute;cuperer des points d'&eacute;nergie.
+- pirater une console pour r&eacute;cup&eacute;rer des points d'&eacute;nergie.
 - crocheter un coffre pour acqu&eacute;rir son contenu et ainsi augmenter son butin.
-- hacker un terminal ou une camera en passant par un mode de vue numerique "Incognita"
+- hacker un terminal ou une camera en passant par un mode de vue num&eacute;rique "Incognita"
 - et bien d'autres actions sp&eacute;cifiques aux personnages ou aux objets &eacute;quip&eacute;s.
 
 Chaque fin de tour incremente un pallier de niveau d'alarme. Une alarme comporte 6 palliers. Une fois compl&egrave;te, on passe au niveau d'alarme suivant. Ce dernier rajoute une difficulte supplementaire:
@@ -42,4 +42,4 @@ Un m&eacute;canisme de couverture se rajoute au gameplay, ce qui permet de se d&
 
 ![5](http://cdn.akamai.steamstatic.com/steam/apps/243970/ss_dc3f42a29961e8940dc1ad0e2d6b41615d086115.1920x1080.jpg)
 
-A l'heure ou j'ecris ces quelques lignes, le jeu est en early access (update 4) pour une vingtaine d'euros sur Steam ou Humble Store. Il est update regulierement par l'equipe du projet. Ils sont tres attentifs aux retours de la communaute et communiquent tres regulierement sur l'avance du jeu. La version actuelle comprend 6 agents jouables, toute une serie de d'amelioration, un mode histoire et un mode sans fin a debloquer. Meme en alpha, j'ai joue plusieurs heures a ce jeu sans rencontrer de bug.
+A l'heure ou j'ecris ces quelques lignes, le jeu est en early access (update 4) pour  16 EUR sur [Steam](http://store.steampowered.com/app/243970/) ou [Humble Store](https://www.humblebundle.com/store/p/invisibleinc_storefront). Il est update regulierement par l'equipe du projet. Ils sont tres attentifs aux retours de la communaute et communiquent tres regulierement sur l'avance du jeu. La version actuelle comprend 6 agents jouables, toute une serie de d'amelioration, un mode histoire et un mode sans fin a debloquer. Meme en alpha, j'ai joue plusieurs heures a ce jeu sans rencontrer de bug.
