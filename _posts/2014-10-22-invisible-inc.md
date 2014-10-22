@@ -9,7 +9,7 @@ title: Invisible Inc.
 
 > Invisible, Incognita est un jeu d'infiltration tactique hardcore.
 
-Voici comment il est present&eacute; sur sa page [Steam](http://store.steampowered.com/app/243970/). Le joueur contr&ocirc;le des espions d'&eacute;lite qui doivent s'infiltrer dans de puissantes corporations dans un univers retro / cartoon / guerre froide. On fait &eacute;voluer les personnages au tour par tour dans un niveau &agrave; chaque fois diff&eacute;rent. Chaque soci&eacute;t&eacute; que l'on infiltre pr&eacute;sente un nouveau d&eacute;fi.
+Le joueur contr&ocirc;le des espions d'&eacute;lite qui doivent s'infiltrer dans de puissantes corporations dans un univers retro / cartoon / guerre froide. On fait &eacute;voluer les personnages au tour par tour dans un niveau &agrave; chaque fois diff&eacute;rent. Chaque soci&eacute;t&eacute; que l'on infiltre pr&eacute;sente un nouveau d&eacute;fi.
 
 ### Gameplay
 
