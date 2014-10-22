@@ -1,6 +1,7 @@
-richardtetaz.github.io
+Blog
 ======================
 
-Installation
+###Installation
+
 sudo xcode-select --install
 

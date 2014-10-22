@@ -15,7 +15,8 @@ Au d&eacute;but de chaque partie, il faut choisir une equipe de deux espions ave
 
 Le but est de voler un maximum de choses dans le niveau gen&egrave;re al&eacute;atoirement sans se faire rep&eacute;rer. Plus on reste discret, plus la r&eacute;compense en fin de niveau est importante. Pour sortir, il suffit de trouver l'ascenseur cach&eacute; sur la map. Il faut donc choisir ces actions avec attentions. Une erreur dans les niveaux avanc&eacute;s peut se r&eacute;v&eacute;ler fatale: perte d'un agent, puis fin de partie.
 
-A son tour de jeu, le joueur dispose de plusieurs actions par personnage: 
+A son tour de jeu, le joueur dispose de plusieurs actions par personnage:
+
 - se d&eacute;placer, en faisant attention &agrave; ne pas entrer dans le champ de vision des gardes.
 - regarder &agrave; travers ou ouvrir une porte.
 - pirater une console pour r&eacute;cuperer des points d'&eacute;nergie.
@@ -23,6 +24,7 @@ A son tour de jeu, le joueur dispose de plusieurs actions par personnage:
 - et bien d'autres actions sp&eacute;cifiques aux personnages ou aux objets &eacute;quip&eacute;s.
 
 Chaque fin de tour incremente un pallier de niveau d'alarme. Une alarme comporte 6 palliers. Une fois compl&egrave;te, on passe au niveau d'alarme suivant. Ce dernier rajoute une difficulte supplementaire:
+
 - activation de nouvelle camera
 - arrive de nouveau gardes ou robots
 - point d'energie supplementaire &agrave; consommer pour crocheter des coffres.
