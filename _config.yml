@@ -3,13 +3,13 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Richard
-tagline:          Blog
+title:            War
+tagline:          Machine
 url:              http://richardtetaz.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Richard Tetaz
+  name:           Richard
   url:            https://twitter.com/richard_tetaz
   email:          richard.tetaz@gmail.com
 
