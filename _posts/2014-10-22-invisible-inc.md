@@ -46,8 +46,8 @@ Un m&eacute;canisme de couverture se rajoute au gameplay, ce qui permet de se d&
 
 A l'heure ou j'&eacute;cris ces quelques lignes, le jeu est en early access (update 4 du 19 aout 2014) pour  16 EUR sur [Steam](http://store.steampowered.com/app/243970/) ou [Humble Store](https://www.humblebundle.com/store/p/invisibleinc_storefront). Il est updat&eacute; r&eacute;gulierement (1 tous les mois) par l'&eacute;quipe du projet. Ils sont tres attentifs aux retours de la communaut&eacute; et [communiquent tres souvent](http://forums.kleientertainment.com/forum/41-invisible-inc-early-access-general-discussion-and-strategies/) sur l'avance du jeu. La version actuelle comprend 6 agents jouables, toute une serie de d'am&eacute;lioration, un mode histoire et un mode sans fin a debloquer.
 
-La bande son n'est pas degueux mais elle est peu variee, esperons que l'equipe du projet l'etoffe par la suite.
+La bande son n'est pas degueux mais elle est peu vari&eacute;e, esp&eacute;rons que l'equipe du projet l'&eacute;toffe par la suite.
 
 Meme en alpha, j'ai jou&eacute; plusieurs heures a ce jeu sans rencontrer de bug. La difficult&eacute; est croissante et il faudra plusieurs heures pour comprendre les mecanismes du jeu et esp&eacute;rer arriver a la fin. Chaque geste compte, chaque tour.
 
-Invisible Inc. est un joyau qui ne peut etre comparer, il s'incrit bien seul dans la ligne du jeu en tour par tour furtif.
+Invisible Inc. est un joyau qui ne peut etre compar&eacute;, il s'incrit bien seul dans la ligne du jeu en tour par tour furtif.
