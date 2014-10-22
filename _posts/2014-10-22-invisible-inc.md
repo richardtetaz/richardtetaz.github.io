@@ -15,7 +15,7 @@ Voici comment il est present&eacute; sur sa page [Steam](http://store.steampower
 
 ![2](https://steamcommunity.com/linkfilter/?url=http://cdn.akamai.steamstatic.com/steam/apps/243970/ss_ced622009a1b1afbfafed57b01d2decf7a4cdfc6.1920x1080.jpg)
 
-Au d&eacute;but de chaque partie, il faut choisir une equipe de deux espions avec des capacit&eacute;s diverses. Au depart, tous les personnages ne sont pas debloqu&eacute;s, on les obtient avec l'experience accumul&eacute;s en fin de partie. On peut les am&eacute;liorer au fur et &agrave; mesure des niveaux. Chaque personnage poss&egrave;de 4 arbres de comp&eacute;tences (Inventaire, Furtivit&eacute;, Hacking, Anarchie) que l'on ameliore &agrave; chaque fin de niveau contre de l'argent r&eacute;cuperer dans nos casses. Chaque personnage possede un nombre de point d'action limite qu'il faudra utiliser &agrave; bon essient en parcourant le niveau.
+Au d&eacute;but de chaque partie, il faut choisir une &eacute;quipe de deux espions avec des capacit&eacute;s diverses. Au depart, tous les personnages ne sont pas debloqu&eacute;s, on les obtient avec l'experience accumul&eacute;s en fin de partie. On peut les am&eacute;liorer au fur et &agrave; mesure des niveaux. Chaque personnage poss&egrave;de 4 arbres de comp&eacute;tences (Inventaire, Furtivit&eacute;, Hacking, Anarchie) que l'on ameliore &agrave; chaque fin de niveau contre de l'argent r&eacute;cuperer dans nos casses. Chaque personnage possede un nombre de point d'action limite qu'il faudra utiliser &agrave; bon essient en parcourant le niveau.
 
 ![3](http://cdn.akamai.steamstatic.com/steam/apps/243970/ss_11af98088c8e3c1017ac2024d9b4d9411b39d813.1920x1080.jpg)
 
@@ -42,8 +42,8 @@ Un m&eacute;canisme de couverture se rajoute au gameplay, ce qui permet de se d&
 
 ![5](http://cdn.akamai.steamstatic.com/steam/apps/243970/ss_dc3f42a29961e8940dc1ad0e2d6b41615d086115.1920x1080.jpg)
 
-A l'heure ou j'ecris ces quelques lignes, le jeu est en early access (update 4) pour  16 EUR sur [Steam](http://store.steampowered.com/app/243970/) ou [Humble Store](https://www.humblebundle.com/store/p/invisibleinc_storefront). Il est update regulierement par l'equipe du projet. Ils sont tres attentifs aux retours de la communaute et communiquent tres regulierement sur l'avance du jeu. La version actuelle comprend 6 agents jouables, toute une serie de d'amelioration, un mode histoire et un mode sans fin a debloquer.
+A l'heure ou j'&eacute;cris ces quelques lignes, le jeu est en early access (update 4) pour  16 EUR sur [Steam](http://store.steampowered.com/app/243970/) ou [Humble Store](https://www.humblebundle.com/store/p/invisibleinc_storefront). Il est updat&eacute; r&eacute;gulierement (1 tous les mois) par l'&eacute;quipe du projet. Ils sont tres attentifs aux retours de la communaut&eacute; et [communiquent tres souvent](http://forums.kleientertainment.com/forum/41-invisible-inc-early-access-general-discussion-and-strategies/) sur l'avance du jeu. La version actuelle comprend 6 agents jouables, toute une serie de d'am&eacute;lioration, un mode histoire et un mode sans fin a debloquer.
 
 La bande son n'est pas degueux mais elle est peu variee, esperons que l'equipe du projet l'etoffe par la suite.
 
-Meme en alpha, j'ai joue plusieurs heures a ce jeu sans rencontrer de bug. La difficulte est croissante et il faudra plusieurs heures de jeu pour comprendre les mecanismes du jeu et esperer arriver a la fin.
+Meme en alpha, j'ai jou&eacute; plusieurs heures a ce jeu sans rencontrer de bug. La difficult&eacute; est croissante et il faudra plusieurs heures pour comprendre les mecanismes du jeu et esp&eacute;rer arriver a la fin.

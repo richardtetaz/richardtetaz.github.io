@@ -1,7 +1,8 @@
-Blog
+War Machine
 ======================
 
-###Installation
+###Articles prevus
 
-sudo xcode-select --install
-
+- Snow (the game)
+- The long dark
+- Gone girl
