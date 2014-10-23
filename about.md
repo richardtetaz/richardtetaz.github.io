@@ -3,7 +3,12 @@ layout: page
 title: About
 ---
 
-My name is Richard Tetaz and I'm a developper. I specialise in web and in front-end developpement. I’m currently working for [Infomaniak](infomaniak.com) as a Developper and Human resources manager.
+### Guillaume
+
+
+### Richard
+
+My name is Richard Tetaz and I'm a developper. I specialise in web and in front-end development. I’m currently working for [Infomaniak](infomaniak.com) as a Developer and a Human resources manager. [My blog](http://codecuisine.io).
 
 ### About the site
 
