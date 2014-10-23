@@ -1,6 +1,8 @@
-richardtetaz.github.io
+War Machine
 ======================
 
-Installation
-sudo xcode-select --install
+###Articles prevus
 
+- Snow (the game)
+- The long dark
+- Gone girl
