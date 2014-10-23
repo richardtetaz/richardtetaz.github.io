@@ -3,23 +3,27 @@ layout: post
 title: The long dark
 ---
 
-C'est très impressionnant pour un jeu en Early Access, d'être déjà très complet. Comparer à d'autres jeux du genre survival comme Dayz ou The Stomping Land, qui nécessite encore beaucoup d'améliorations, The Long Dark, lui est déjà très avancé dans son contenu. Les bases du survival sont là.
+### Presentation
 
-Vous êtes plongé dans un monde fantastique (non ... pas Disney Land ... tu m'écoutes un peu ou pas ?) entre montagnes et forêts, rempli de neige et de glace. Malgré que le décors soit attrayant, il n'en est pas moins sauvage. Face aux bêtes qui rôdent de jour comme de nuit, le chasseur se retrouve souvent chassé. Si seulement les animaux étaient votre seul préoccupation ... Vous êtes au centre de tout. La faim, la soif, la fatigue ou le froid seront vos pires ennemis dans les premières heures de jeu. Chaque item que vous trouverez sera une petite victoire sur les éléments hostiles du jeu et vous permettra de prolonger votre expérience.
+Oubliez DayZ, cette fausse survie pimpee par dessus Arma. Voici The long dark, un jeu pour le moment en early access mais deja bien complet. Ici pas de multi, une simple sandbox disponible pour le moment, qui montre deja un tres gros potentiel pour ce jeu.
 
-L'immersion est là, et c'est tant mieux. Pas de HUD a premier vu, mais votre personnage va grandement vous servir. Grâce à lui vous allez pouvoir savoir s'il a faim grâce à des gargouillements, s'il a froid, s'il a soif ... la touche Tab vous servira à accéder à votre inventaire, mais aussi aux crafts, au recyclage des ressources qui vous seront inutiles, etc ...
+> Je vois mes mains, je bouge mes jambes, je suis en vie.
 
-The Long Dark est vraiment à part dans les jeux de survival. Habituellement vous aurez toujours un élément bloquant, vous m'étant la pression continuellement, qu'il soit agressif ou amical. Dans The Long Dark, pas de zombie, ou autres bestioles assoiffées de sang... La seule réelle menace finalement ... C'est vous.
+On demarre la partie entre montagnes et forêts, rempli de neige et de glace. Malgré que le décors soit attrayant, il n'en est pas moins sauvage. Face aux loups qui rôdent de jour comme de nuit, vous devez assurer votre survie le plus longtemps possible. On connait deja la fin, apres la vie, la mort. Ici, il faut tout faire pour la prolonger.  Si seulement les animaux étaient votre seul préoccupation ... Vous avez des besoins au essentiel: la faim, la soif, la fatigue ou le froid seront vos pires ennemis dans les premières heures de jeu. Chaque objet que vous trouverez sera une chance de faire face aux éléments hostiles du jeu et vous permettra de prolonger votre expérience.
 
-Quoi qu'il en soit, The Long Dark est un jeu que je recommande pour les personnes qui aiment le genre. Facile à prendre en main ( Malgré mon anglais totalement pourris ), un régal pour les yeux et les oreilles. Ce jeu est très prometteur et a un potentiel incroyable.
+### Ambiance
 
-TLD : du survival sans multi, sans map procédural mais avec un scénario à venir
---> félicitations te voilà en concurrence direct avec The Forest :)
-Long Dark est finalement assez proche d'un RPG tant ses interactions sont gratifiantes et nombreuses
-météo, jour/nuit, le blizzard efface vos pas, les vents violents accroissent la sensation de froid.
-Allumer un feu boost la compétence correspondante (moins de chance d'échec pour les allumages suivant (+ plus rapide pour les allumer)
-les fours permettent de cuisiner, stérilser de l'eau, etc.
-des outils permettent de réparer.
+L'immersion est total, pas de HUD, decor en cell shading, ambiance glacee et alternance jour / nuit. C'est un régal pour les yeux et les oreilles. La meteo est un levier de difficulte qu'il faudra apprendre a gerer, le blizzard efface vos pas, les vents violents accroissent la sensation de froid. Il faut trouver des vetements pour ameliorer sa condition.
+
+Les loups, seuls predateurs vivant, qui vous pourchasseront a vue. Il vaut mieux les eviter ou les eloigner en lancant dans leur patte une torche.
+
+### Gameplay
+
+La touche Tab indique votre etat de sante, le contenu de votre inventaire, mais aussi les crafts possibles, le recyclage des ressources, les elements requis pour vous soigner, etc ...
+
+The Long Dark est à part, pas de zombie, ou autres bestioles assoiffées de sang... La seule réelle menace finalement ... C'est l'environnement. Vous devrez gerer vos ressources, dormir, couper du bois ou encore depecer un biche precedement entammer par un loup.
+
+Le feu, seul source de chaleur, est un autre element essentiel. Il vous permettra de vous rechauffer, de cuir vos aliments et stereliser votre neige fondu. Pour l'allumer, il vous faudra ramasser du bois.
 
 Cette Alpha reprend uniquement le mode Sandbox. Le jeu scénarisé est à venir (sous forme d'épisodes).
 Comme je le disais, il n'y a pas de multi et pas plus que de génération aléatoire de map. Tout ce qui varie actuellement c'est votre point de respawn et les fournitures que l'on peut trouver (uniquement celles dans des conteneurs, les autres semblent êtres fixe).
