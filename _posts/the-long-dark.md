@@ -13,7 +13,7 @@ On demarre la partie entre montagnes et forêts, rempli de neige et de glace. Mal
 
 ### Ambiance
 
-L'immersion est total, pas de HUD, decor en cell shading, ambiance glacee et alternance jour / nuit. C'est un régal pour les yeux et les oreilles. La meteo est un levier de difficulte qu'il faudra apprendre a gerer, le blizzard efface vos pas, les vents violents accroissent la sensation de froid. Il faut trouver des vetements pour ameliorer sa condition.
+L'immersion est total, pas de HUD, decor en cell shading, ambiance glacee et alternance jour / nuit. C'est un régal pour les yeux et les oreilles. La meteo est un levier de difficulte qu'il faudra apprendre a gerer, le blizzard efface vos pas, les vents violents accroissent la sensation de froid. Il faut trouver des vetements pour ameliorer sa condition. Il faudra s'abriter d'une tempete ou retourner a l'abris d'un cabanon abandonné le soir pour éviter de se faire dévorer par les loups.
 
 Les loups, seuls predateurs vivant, qui vous pourchasseront a vue. Il vaut mieux les eviter ou les eloigner en lancant dans leur patte une torche.
 
@@ -25,8 +25,7 @@ The Long Dark est à part, pas de zombie, ou autres bestioles assoiffées de sang.
 
 Le feu, seul source de chaleur, est un autre element essentiel. Il vous permettra de vous rechauffer, de cuir vos aliments et stereliser votre neige fondu. Pour l'allumer, il vous faudra ramasser du bois.
 
-Cette Alpha reprend uniquement le mode Sandbox. Le jeu scénarisé est à venir (sous forme d'épisodes).
-Comme je le disais, il n'y a pas de multi et pas plus que de génération aléatoire de map. Tout ce qui varie actuellement c'est votre point de respawn et les fournitures que l'on peut trouver (uniquement celles dans des conteneurs, les autres semblent êtres fixe).
+Comme je le disais, il n'y a pas de multi et pas de génération aléatoire de map. Tout ce qui varie actuellement, c'est votre point de respawn et les fournitures que l'on peut trouver.
 
 Tout dans TLD semble avoir été transcrit avec une grande attention pour la réalité : Chaque actions consomment des calories, ces calories représentent votre espérance de vie. Plus il fait froid (/plus vous vous exposez au froid) plus votre réserve baisse rapidement. Trouver des vêtements et un abris (dans un batiment abandonné) est votre priorité. Ensuite chacune de vos sorties pour récupérer de la viande/bois, etc. doit être pesée avec prudence. L'inventaire fonctionne sur base d'un poids maximum.
 Votre personnage fera des commentaires, greloterat, etc. L'immersion et l'aspect survie sont vraiment bien rendu. Les combinaisons, fabrications, réparations, actions de collectes sont nombreuses et très au point. Mais sans vraies composantes aléatoires variable l'expérience est encore très/trop limitée.Les menaces se limites à la météo et à quelques loups. TLD fait pâle figure face à la concurrence très exacerbée ces deniers temps dans la sphère des jeux de survie.
@@ -37,30 +36,15 @@ Les autres actions en dehors des combats sont toutes chronomètrées, avant de val
 Cela étant,l'atmosphère et les possibilités semblent prometteurs pour le scénario qui viendra se poser par dessus.
 
 J'ajoute une remarque personnelle, je n'ai jamais eu autant envie de survivre, comprenez qu'avoir le froid comme ennemi principal est assez intéressant, stimulant et oserais-je dire novateur ... ?
-Posté le : 22 septembre
-Cette évaluation vous a-t-elle été utile ?
- Oui
-
- Non
-10 personne(s) sur 10 (100%) ont trouvé cette évaluation utile
-
-Loutre Perfide
-459 produits enregistrés
-15 évaluations
-
-Recommandé(e)
-5.5 heures en tout
-AVIS DONNÉ PENDANT L'ACCÈS ANTICIPÉ
-Avis basé sur l'EARLY ACCESS
 
 Ayant Kickstarter le jeu, j'attendais avec impatience cette version Alpha limitée au mode Sandbox mais qui permet tout de même d'entrevoir un potentiel immense et qui risque encore de s'améliorer en fonction de nos retours.
-
-Le jeu ne vous permet pas encore de changer les touches (peut-être dans un fichier ini quelque part mais je n'ai pas encore bien cherché), on peut heureusement invertir les axes X et Y ce qui me ravi étant fan de l'inversion de l'axe Y depuis Quake. Le jeu rame joliment en mode Ultra sur une bonne configuration (X51 avec i7, 16 Go de ram et Nvidia 760) mais il tourne tout de même convenablement et sans réelle gêne pour ce genre de jeu.
 
 On se retrouve donc dans la nature la plus magistrale qui soit entouré(e) d'une faune et d'une flore typique des grands pays froids du Nord (cerfs et loups pour ne pas les nommer) avec un sac à dos et quelques vêtements pour survivre dans cet environnement certes majestueux mais mortel. Les développeurs ne plaisantent pas lorsqu'ils nous demandent combien de temps on parviendra à survivre dans ce nouveau monde, les dangers sont multiples et nos conditions de survie nous obligeront à explorer les environs et à découvrir des objets du quotidien mais qui dans ce contexte auront une toute autre signification que dans la vie réelle. Chaque barre céréalière fera notre bonheur, chaque canette de SODA nous remplira de joie et c'est avec une certaine tristesse que l'on cassera son ouvre boite, instrument magique de ce type de jeu.
 
 Plus on fera quelque chose et meilleur on sera pour le refaire plus tard, on est pas tout à fait dans un système de skills mais on s'en rapproche, il faudra s'entrainer pour devenir meilleur et moins rater son départ de feu par exemple. On trouvera également de nombreux objets qui nous permettront de survivre comme des vêtements chauds, du tissu pour faire des bandages ou un kit couture vital pour notre survie. Le jeu nous permet également de trouver des armes à feu afin de chasser mais les munitions seront rares et précieuses. L'eau est importante car on pourra en obtenir en utilisant de la neige qu'il faudra faire bouillir afin qu'elle devienne potable, il faudra dès lors trouver un réchaud et du bois ainsi que des allumettes.
 
-Vous l'avez compris, ce jeu nous met dans la peau d'un survivant et il faudra parfaitement gérer son inventaire, sa chaleur corporelle et ses victuailles pour espérer survivre un jour de plus. Le climat est d'ailleurs très important dans le jeu, il faudra s'abriter en plein blizzard ou retourner de temps en temps dans un endroit sur le soir pour éviter de se faire dévorer par les loups.
+Vous l'avez compris, ce jeu nous met dans la peau d'un survivant et il faudra parfaitement gérer son inventaire, sa chaleur corporelle et ses victuailles pour espérer survivre un jour de plus.
 
-En l'état, le jeu est vraiment excellent et il permet vraiment de s'amuser grâce son excellente rejouabilité. Il n'y a plus qu'à espérer que le développement nous octrois de belles mises à jour pour profiter au maximum de ce joyau qui ne demande qu'à être poli suite à nos retours constructifs. Je suis époustouflé par le potentiel de ce <strong>The Long Dark</strong> et je retourne de ce pas me geler dans ce grand froid austère et hostile mais ô combien attractif et captivant, vivement la suite! Si vous aimez les jeux de survie sans zombies et sans autre joueur qui vous snipera de 2 kilomètres alors que vous vous êtes cassé une jambe en descendant d'une échelle, ce jeu est fait pour vous.
+En l'état, le jeu est vraiment excellent et il permet vraiment de s'amuser grâce son excellente rejouabilité. Il n'y a plus qu'à espérer que le développement nous octrois de belles mises à jour pour profiter au maximum de ce joyau qui ne demande qu'à être poli suite à nos retours constructifs.
+
+*Richard*
