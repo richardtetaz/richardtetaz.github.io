@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Invisible Inc.
+published: true
+category: gaming
+tags: [hardcore]
 ---
 
 ### Presentation
