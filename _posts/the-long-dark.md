@@ -1,6 +1,9 @@
 ---
 layout: post
 title: The long dark
+published: false
+category: gaming
+tags: [game, survival]
 ---
 
 ### Presentation

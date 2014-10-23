@@ -1,8 +1,10 @@
-War Machine
+#War Machine
 ======================
 
-###Articles prevus
+### Articles prevus
 
 - Snow (the game)
 - The long dark
 - Gone girl
+
+### Installation
