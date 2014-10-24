@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Invisible Inc.
+title: "Invisible Inc."
 published: true
 category: gaming
-tags: [hardcore]
+tags: ["hardcore", "infiltration", "tour par tour"]
 ---
 
 ### Pr&eacute;sentation
