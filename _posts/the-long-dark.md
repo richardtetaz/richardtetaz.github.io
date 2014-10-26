@@ -9,10 +9,10 @@ link: https://www.kickstarter.com/projects/hinterlandgames/the-long-dark-a-first
 
 ### Presentation
 
-Oubliez DayZ, cette fausse survie pimpee par dessus Arma. Voici The long dark, un jeu pour le moment en early access mais deja bien complet. Ici pas de multi, une simple sandbox disponible pour le moment, qui montre deja un tres gros potentiel pour ce jeu.
-
 > Survoller le grand Nord est une routine pour le pilote William Mackenzie. Le ciel est parcouru de lumières mystérieuses dans le ciel. Soudain, son fidèle avion de transport "Havilland Beaver" perd de la puissance et s'écrase dans une dense forêt montagneuse. Loin de toute habitation, perdu, blessé, seul, et avec les loups qui rodent dans cette region, Mackenzie devra maîtriser rapidement les compétences de base de survie en milieu hostile s'il veut vivre assez longtemps dans l'attente de secours...
 > "Je vois mes mains, je bouge mes jambes, je suis en vie mais pour combien de temps?"
+
+Oubliez DayZ, The forest,  ces simulation pathetiques pour kikoolol. Voici The long dark, un jeu pour le moment en early access mais deja bien complet. Ici pas de multi, une simple sandbox disponible pour le moment, qui montre deja un tres gros potentiel pour ce jeu.
 
 On demarre la partie entre montagnes et forêts, rempli de neige et de glace. Malgré que le décors soit attrayant, il n'en est pas moins sauvage. Face aux loups qui rôdent de jour comme de nuit, vous devez assurer votre survie le plus longtemps possible. On connait deja la fin, apres la vie, la mort. Ici, il faut tout faire pour la prolonger.  Si seulement les animaux étaient votre seul préoccupation ... Vous avez des besoins au essentiel: la faim, la soif, la fatigue ou le froid seront vos pires ennemis dans les premières heures de jeu. Chaque objet que vous trouverez sera une chance de faire face aux éléments hostiles du jeu et vous permettra de prolonger votre expérience.
 
