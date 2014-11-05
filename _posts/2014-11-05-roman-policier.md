@@ -40,7 +40,7 @@ Viendrons ensuite :
 Le résumé que je ferai de Grangé c’est que c’est un très bon écrivain avec un style fluide et simple qui met très rapidement dans l’ambiance. Une qualité d’écriture au niveau des descriptions des pays et des atmosphères certainement dû à son passé de journaliste. Malheureusement contrebalancé par une tendance à toujours écrire sur le même schéma, le personnage principal étant toujours liés d’une manière à une autre au reste de l’intrigue même quand ce n’est pas évident est plaisant au début mais gâche fortement le plaisir quand on en a pris l’habitude. C’est pour cette raison qu’un personne attaquant par les derniers livres de Grangé pourrait très bien adorer ces livres et détester les premiers ou tout détester ou tout aimer cela va de soi.
 
 
-### Tomas Harris ou autrement dit le papa de Hannibal Lecter
+### Tomas Harris ou, autrement dit, le papa de Hannibal Lecter
 
 
 Le Silence des Agneaux certainement un chef d’œuvre. Une histoire ou Clarence Sterlling va chercher à soutirer des informations au génialement intelligent et machiavélique Dr Hannibal Lecter, emprisonné, afin d’arrêter le tueur en série Buffalo Bill. Le Dr Lecter grâce à ses études sur le comportement déviant des criminels est le seul à pouvoir les mettre sur la piste de Buffalo Bill le dépeceur. Mais pour se faire il demande à Clarence de lui dévoiler ses souvenirs ainsi que ses peurs, ce qu’elle va accepter pour arriver à retrouver la fille du sénateur enlevé par Buffalo Bill.
@@ -66,6 +66,6 @@ J’aimerai en dire beaucoup plus sur les deux mais je pense que ce sont vraimen
 ### Steve Mosby
 
 
-Pour le moment je n’en ai lu qu’un seul, Un sur Deux mais devant le style d’écriture simple et efficace, j’en ai déjà un autre à lire sous le coude.
-Un sur Deux c’est l’histoire d’un tueur qui s’attaque à des couples, qui les tortures mais en laisse toujours un des deux en vie. L’enquête s’oriente autours de la réapparition de se tueur après deux ans d’inactions. On va suivre un jeune nouveau, Mark, spécialiste des interrogatoires ayant intégré l’équipe d’une légende, l’inspecteur Mercer. Donc comme je le disais un style vraiment simple et efficace avec de bon rebondissements peut être un peu trop à certains moments mais dans l’ensemble plutôt bon. Le seul bémol que je mettrai est la multiplication des points de vue, je pense notamment que l’histoire aurait gagné à ne pas faire intervenir la femme de Mercer, mais ça reste une très bonne lecture et vu que le style est vraiment très bon j’espère que le prochain que je lirai sera encore mieux.
+Pour le moment je n’en ai lu qu’un seul, *Un sur Deux* mais devant le style d’écriture simple et efficace, j’en ai déjà un autre à lire sous le coude.
+*Un sur Deux* c’est l’histoire d’un tueur qui s’attaque à des couples, qui les tortures mais en laisse toujours un des deux en vie. L’enquête s’oriente autours de la réapparition de se tueur après deux ans d’inactions. On va suivre un jeune nouveau, Mark, spécialiste des interrogatoires ayant intégré l’équipe d’une légende, l’inspecteur Mercer. Donc comme je le disais un style vraiment simple et efficace avec de bon rebondissements peut être un peu trop à certains moments mais dans l’ensemble plutôt bon. Le seul bémol que je mettrai est la multiplication des points de vue, je pense notamment que l’histoire aurait gagné à ne pas faire intervenir la femme de Mercer, mais ça reste une très bonne lecture et vu que le style est vraiment très bon j’espère que le prochain que je lirai sera encore mieux.
 
