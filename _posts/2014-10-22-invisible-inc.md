@@ -4,6 +4,7 @@ title: "Invisible Inc."
 published: true
 category: gaming
 tags: ["hardcore", "infiltration", "tour par tour"]
+author: 'Richard'
 ---
 
 ### Pr&eacute;sentation

@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Les romans policiers qui m'ont plu
+title: "Les romans policiers qui m'ont plu"
+published: true
+category: book
+author: 'Guillaume'
 ---
 
 ### Présentation
@@ -40,7 +43,7 @@ Le résumé que je ferai de Grangé c’est que c’est un très bon écrivain a
 ### Tomas Harris ou autrement dit le papa de Hannibal Lecter
 
 
-Le Silence des Agneaux certainement un chef d’œuvre. Une histoire ou Clarence Sterlling va chercher à soutirer des informations au génialement intelligent et machiavélique Dr Hannibal Lecter, emprisonné, afin d’arrêter le tueur en série Buffalo Bill. Le Dr Lecter grâce à ses études sur le comportement déviant des criminels est le seul à pouvoir les mettre sur la piste de Buffalo Bill le dépeceur. Mais pour se faire il demande à Clarence de lui dévoiler ses souvenirs ainsi que ses peurs, ce qu’elle va accepter pour arriver à retrouver la fille du sénateur enlevé par Buffalo Bill. 
+Le Silence des Agneaux certainement un chef d’œuvre. Une histoire ou Clarence Sterlling va chercher à soutirer des informations au génialement intelligent et machiavélique Dr Hannibal Lecter, emprisonné, afin d’arrêter le tueur en série Buffalo Bill. Le Dr Lecter grâce à ses études sur le comportement déviant des criminels est le seul à pouvoir les mettre sur la piste de Buffalo Bill le dépeceur. Mais pour se faire il demande à Clarence de lui dévoiler ses souvenirs ainsi que ses peurs, ce qu’elle va accepter pour arriver à retrouver la fille du sénateur enlevé par Buffalo Bill.
 Nous avons ici l’histoire d’un tueur en série, le Dr Lecter, qu’on va tour à tour aimer ou haïr selon qui il manipulera, de la pauvre Clarence à l’antipathique Chilton. Ce personnage est l’incarnation moderne de Dr Jekyll et Mr Hyde. Le plus surprenant et perturbant est que le Dr Lecter est un homme d’un grand raffinement, cannibale certes mais un adepte de la grande musique, de la haute gastronomie et de l’art en général.
 
 Finalement même si le fil conducteur est de retrouver Buffalo Bill, ce qui est très très bien fait, le plus intéressant dans ce livre est la relation entre Clarence et le Dr Lecter.
