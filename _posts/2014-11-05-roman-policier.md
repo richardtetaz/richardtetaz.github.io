@@ -14,9 +14,7 @@ M'enfin revenons à la liste des meilleurs romans policiers de tous les temps (o
 
 Il faut savoir que cette liste n'est pas forcement écrite dans un ordre qualitatif ou inversement qualitatif, je vais écrire dans l'ordre dans lequel j'ai pu découvrir ces auteurs.
 
-
 ### Jean-Christophe Grangé
-
 
 Certainement un des meilleurs écrivains français à mes yeux. J'ai autant aimé ces livres que j'ai pu les détester, un véritable ascenseur émotionnel qui malheureusement a fait que je n’ai absolument aucun désir de lire ces derniers livres.
 
@@ -34,14 +32,14 @@ Le quatrième livre que j’ai lu est l’empire des loups, roman dont je ne m�
 Le dernier livre que j’ai lu et aimé était La Ligne Noire, un serial-killer avec un mode opératoire originale, entièrement dans sa folie qui est capturé dès le début de l’histoire. Le personnage principal est un journaliste qui veut rencontrer et écrire sur le serial-killer. Nous avons encore une fois la part d’ombre du personnage principal comme dans tous les romans de Grangé, qu’on va découvrir au fur et à mesure qu’il arrive à en savoir un peu plus sur le tueur. Un récit sombre avec de nombreux rebondissements très sympathiques, un rythme très bien dosé qui allèche le lecteur.
 
 Viendrons ensuite :
-	- Le Serment des Limbes, romans que j’ai trouvé prévisible et avec juste du gore pour du gore.
-	- Miserere avec encore un élément de fantastique que je n’ai pas du tout aimé
-	- *La Forêt des Mânes* que j’ai trouvé un peu beaucoup capillotracté
+
+- Le Serment des Limbes, romans que j’ai trouvé prévisible et avec juste du gore pour du gore.
+- Miserere avec encore un élément de fantastique que je n’ai pas du tout aimé.
+- *La Forêt des Mânes* que j’ai trouvé un peu beaucoup capillotracté.
+
 Le résumé que je ferai de Grangé c’est que c’est un très bon écrivain avec un style fluide et simple qui met très rapidement dans l’ambiance. Une qualité d’écriture au niveau des descriptions des pays et des atmosphères certainement dû à son passé de journaliste. Malheureusement contrebalancé par une tendance à toujours écrire sur le même schéma, le personnage principal étant toujours liés d’une manière à une autre au reste de l’intrigue même quand ce n’est pas évident est plaisant au début mais gâche fortement le plaisir quand on en a pris l’habitude. C’est pour cette raison qu’un personne attaquant par les derniers livres de Grangé pourrait très bien adorer ces livres et détester les premiers ou tout détester ou tout aimer cela va de soi.
 
-
 ### Tomas Harris ou, autrement dit, le papa de Hannibal Lecter
-
 
 Le Silence des Agneaux certainement un chef d’œuvre. Une histoire ou Clarence Sterlling va chercher à soutirer des informations au génialement intelligent et machiavélique Dr Hannibal Lecter, emprisonné, afin d’arrêter le tueur en série Buffalo Bill. Le Dr Lecter grâce à ses études sur le comportement déviant des criminels est le seul à pouvoir les mettre sur la piste de Buffalo Bill le dépeceur. Mais pour se faire il demande à Clarence de lui dévoiler ses souvenirs ainsi que ses peurs, ce qu’elle va accepter pour arriver à retrouver la fille du sénateur enlevé par Buffalo Bill.
 Nous avons ici l’histoire d’un tueur en série, le Dr Lecter, qu’on va tour à tour aimer ou haïr selon qui il manipulera, de la pauvre Clarence à l’antipathique Chilton. Ce personnage est l’incarnation moderne de Dr Jekyll et Mr Hyde. Le plus surprenant et perturbant est que le Dr Lecter est un homme d’un grand raffinement, cannibale certes mais un adepte de la grande musique, de la haute gastronomie et de l’art en général.
@@ -62,9 +60,7 @@ Le deuxième livre est *Le tribunal des âmes*. Pour moi encore mieux que le pre
 
 J’aimerai en dire beaucoup plus sur les deux mais je pense que ce sont vraiment des romans qui méritent d’être lu avec le minimum d’informations possibles à leur sujets pour garder le mystère jusqu’au bout de chacun et pouvoir en profiter pleinement.
 
-
 ### Steve Mosby
-
 
 Pour le moment je n’en ai lu qu’un seul, *Un sur Deux* mais devant le style d’écriture simple et efficace, j’en ai déjà un autre à lire sous le coude.
 *Un sur Deux* c’est l’histoire d’un tueur qui s’attaque à des couples, qui les tortures mais en laisse toujours un des deux en vie. L’enquête s’oriente autours de la réapparition de se tueur après deux ans d’inactions. On va suivre un jeune nouveau, Mark, spécialiste des interrogatoires ayant intégré l’équipe d’une légende, l’inspecteur Mercer. Donc comme je le disais un style vraiment simple et efficace avec de bon rebondissements peut être un peu trop à certains moments mais dans l’ensemble plutôt bon. Le seul bémol que je mettrai est la multiplication des points de vue, je pense notamment que l’histoire aurait gagné à ne pas faire intervenir la femme de Mercer, mais ça reste une très bonne lecture et vu que le style est vraiment très bon j’espère que le prochain que je lirai sera encore mieux.
