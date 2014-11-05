@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Invisible Inc."
+title: Invisible Inc.
 published: true
 category: gaming
 tags: ["hardcore", "infiltration", "tour par tour"]
-author: "Richard"
+author: Richard
 ---
 
 ### Pr&eacute;sentation

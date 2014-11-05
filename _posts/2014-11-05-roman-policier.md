@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Romans policiers"
+title: Romans policiers
 published: true
 category: book
-author: "Guillaume"
+author: Guillaume
 ---
 
 ### Présentation

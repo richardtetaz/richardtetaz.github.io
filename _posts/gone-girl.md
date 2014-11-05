@@ -4,7 +4,7 @@ title: Gone girl
 published: false
 category: book
 tags: [thriller]
-author: "Richard"
+author: Richard
 ---
 
 Livre tout juste terminé. Je fais un retour sur cette histoire que l'on peut voir au cinema en ce moment. Pour ceux qui n'ont pas vu ou lu le livre, je ne vous conseille pas de lire la suite.
