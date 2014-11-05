@@ -36,7 +36,7 @@ Le dernier livre que j’ai lu et aimé était La Ligne Noire, un serial-killer 
 Viendrons ensuite :
 	- Le Serment des Limbes, romans que j’ai trouvé prévisible et avec juste du gore pour du gore.
 	- Miserere avec encore un élément de fantastique que je n’ai pas du tout aimé
-	- La Forêt des Mânes que j’ai trouvé un peu beaucoup capillotracté
+	- *La Forêt des Mânes* que j’ai trouvé un peu beaucoup capillotracté
 Le résumé que je ferai de Grangé c’est que c’est un très bon écrivain avec un style fluide et simple qui met très rapidement dans l’ambiance. Une qualité d’écriture au niveau des descriptions des pays et des atmosphères certainement dû à son passé de journaliste. Malheureusement contrebalancé par une tendance à toujours écrire sur le même schéma, le personnage principal étant toujours liés d’une manière à une autre au reste de l’intrigue même quand ce n’est pas évident est plaisant au début mais gâche fortement le plaisir quand on en a pris l’habitude. C’est pour cette raison qu’un personne attaquant par les derniers livres de Grangé pourrait très bien adorer ces livres et détester les premiers ou tout détester ou tout aimer cela va de soi.
 
 
@@ -54,11 +54,11 @@ Un livre de haut niveau que toutes personnes aimant le polar devraient avoir lu.
 
 
 Ecrivain Italien avec pour moi la meilleure écriture au niveau romain policier. Je n’ai malheureusement lu que deux livres sur les quatre qu’il a sortis pour le moment.
-Le Chuchoteur est un livre orienté sur la manipulation avec une enquête tournant autour de la disparition de 5 petites filles dont les policiers ont retrouvé les 5 bras gauches dans 5 petites tombes.
+*Le Chuchoteur* est un livre orienté sur la manipulation avec une enquête tournant autour de la disparition de 5 petites filles dont les policiers ont retrouvé les 5 bras gauches dans 5 petites tombes.
 L’histoire prendra un nouveau tournant avec l’arrivé de Milla Vasquez enquêtrice spécialiste des enlèvements suite à la découverte d’un sixième bras gauche.
 Un roman palpitant, une atmosphère à faire se pisser dessus un cadavre. Le seul bémol à ce livre est un passage ou il  trouve une réponse en faisant appel à du fantastique alors qu’une autre solution aurait pu être adopté mais c’est ce qu’on appelle un parti pris et bien que ça m’ai déranger ça n’enlève rien à la qualité du livre.
 
-Le deuxième livre est le tribunal des âmes. Pour moi encore mieux que le premier. Un roman se passant à Rome, autours de deux personnages experts en analyse de scène de crime en suivant la piste de la disparition d’une étudiante. Roman quasi-mystique car les deux personnages devront faire des choix pour aller de l’avant suite à deux « accidents » totalement différents les ayant frappés chacun un an auparavant.
+Le deuxième livre est *Le tribunal des âmes*. Pour moi encore mieux que le premier. Un roman se passant à Rome, autours de deux personnages experts en analyse de scène de crime en suivant la piste de la disparition d’une étudiante. Roman quasi-mystique car les deux personnages devront faire des choix pour aller de l’avant suite à deux « accidents » totalement différents les ayant frappés chacun un an auparavant.
 
 J’aimerai en dire beaucoup plus sur les deux mais je pense que ce sont vraiment des romans qui méritent d’être lu avec le minimum d’informations possibles à leur sujets pour garder le mystère jusqu’au bout de chacun et pouvoir en profiter pleinement.
 
