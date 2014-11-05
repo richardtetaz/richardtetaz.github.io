@@ -2,6 +2,7 @@
 layout: post
 title: The long dark
 published: false
+author: "Richard"
 category: gaming
 tags: [game, survival]
 link: https://www.kickstarter.com/projects/hinterlandgames/the-long-dark-a-first-person-post-disaster-surviva

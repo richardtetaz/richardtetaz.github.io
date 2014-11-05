@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Les romans policiers qui m'ont plu"
+title: "Romans policiers"
 published: true
 category: book
-author: 'Guillaume'
+author: "Guillaume"
 ---
 
 ### Présentation
