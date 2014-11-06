@@ -44,5 +44,3 @@ On se retrouve donc dans la nature la plus magistrale qui soit entouré(e) d'une 
 Plus on fera quelque chose et meilleur on sera pour le refaire plus tard, on est pas tout à fait dans un système de skills mais on s'en rapproche, il faudra s'entrainer pour devenir meilleur et moins rater son départ de feu par exemple. On trouvera également de nombreux objets qui nous permettront de survivre comme des vêtements chauds, du tissu pour faire des bandages ou un kit couture vital pour notre survie. Le jeu nous permet également de trouver des armes à feu afin de chasser mais les munitions seront rares et précieuses. L'eau est importante car on pourra en obtenir en utilisant de la neige qu'il faudra faire bouillir afin qu'elle devienne potable, il faudra dès lors trouver un réchaud et du bois ainsi que des allumettes.
 
 En l'état, le jeu est vraiment excellent et il permet vraiment de s'amuser grâce son excellente rejouabilité. Il n'y a plus qu'à espérer que le développement nous octrois de belles mises à jour pour profiter au maximum de ce joyau qui ne demande qu'à être poli suite à nos retours constructifs.
-
-*Richard*

@@ -55,5 +55,3 @@ La bande son n'est pas degueux mais elle est peu vari&eacute;e, esp&eacute;rons 
 Meme en alpha, j'ai jou&eacute; plusieurs heures &agrave; ce jeu sans rencontrer de bug. La difficult&eacute; est croissante et il faudra plusieurs heures pour comprendre les m&eacute;canismes du jeu et esp&eacute;rer arriver &agrave; la fin. Chaque geste compte, chaque tour. Ce jeu a une bonne dur&eacute;e de vie par le fait que chaque partie soit un nouveau defi.
 
 Invisible Inc. est un joyau qui ne peut etre compar&eacute;, il s'incrit bien seul dans la ligne du jeu en tour par tour furtif.
-
-*Richard*
