@@ -8,8 +8,9 @@ tags: [gaming, survival, hardcore]
 
 ### Pr&eacute;sentation
 
-&gt; Survoller le grand Nord est une routine pour le pilote William Mackenzie. Le ciel est parcouru de lumi&egrave;res myst&eacute;rieuses dans le ciel. Soudain, son fid&egrave;le avion de transport &quot;Havilland Beaver&quot; perd de la puissance et s&apos;&eacute;crase dans une dense for&ecirc;t montagneuse. Loin de toute habitation, perdu, bless&eacute;, seul, et avec les loups qui rodent dans cette region, Mackenzie devra ma&icirc;triser rapidement les comp&eacute;tences de base de survie en milieu hostile s&apos;il veut vivre assez longtemps dans l&apos;attente de secours...
-&gt; &quot;Je vois mes mains, je bouge mes jambes, je suis en vie mais pour combien de temps?&quot;
+Survoller le grand Nord est une routine pour le pilote William Mackenzie. Le ciel est parcouru de lumi&egrave;res myst&eacute;rieuses dans le ciel. Soudain, son fid&egrave;le avion de transport &quot;Havilland Beaver&quot; perd de la puissance et s&apos;&eacute;crase dans une dense for&ecirc;t montagneuse. Loin de toute habitation, perdu, bless&eacute;, seul, et avec les loups qui rodent dans cette region, Mackenzie devra ma&icirc;triser rapidement les comp&eacute;tences de base de survie en milieu hostile s&apos;il veut vivre assez longtemps dans l&apos;attente de secours...
+
+> Je vois mes mains, je bouge mes jambes, je suis en vie mais pour combien de temps?
 
 Oubliez DayZ, The forest,  ces simulation pathetiques pour kikoolol. Voici The long dark, un jeu pour le moment en early access mais deja bien complet. Ici pas de multi, une simple sandbox disponible pour le moment, qui montre deja un tres gros potentiel pour ce jeu.
 
