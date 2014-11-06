@@ -3,7 +3,7 @@ layout: post
 title: The long dark
 published: true
 author: Richard
-tags: [gaming, survival, hardcore]
+tags: ['gaming', 'survival', 'hardcore']
 ---
 
 ### Presentation
