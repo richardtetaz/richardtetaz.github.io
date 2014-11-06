@@ -1,11 +1,9 @@
 ---
 layout: post
 title: The long dark
-published: false
+published: true
 author: Richard
-category: gaming
-tags: [game, survival]
-link: https://www.kickstarter.com/projects/hinterlandgames/the-long-dark-a-first-person-post-disaster-surviva
+tags: [gaming, survival, hardcore]
 ---
 
 ### Presentation
@@ -21,11 +19,11 @@ On demarre la partie entre montagnes et forêts, rempli de neige et de glace. Mal
 
 L'immersion est total, pas de HUD, decor en cell shading, ambiance glacee et alternance jour / nuit. C'est un régal pour les yeux et les oreilles. La meteo est un levier de difficulte qu'il faudra apprendre a gerer, le blizzard efface vos pas, les vents violents accroissent la sensation de froid. Il faut trouver des vetements pour ameliorer sa condition. Il faudra s'abriter d'une tempete ou retourner a l'abris d'un cabanon abandonné le soir pour éviter de se faire dévorer par les loups.
 
-Les loups, seuls predateurs vivant, qui vous pourchasseront a vue. Il vaut mieux les eviter ou les eloigner en lancant dans leur patte une torche.
+Les loups, seuls predateurs vivant, qui vous pourchasseront a vue. Il vaut mieux les eviter ou les eloigner en lancant une torche dans leurs pattes.
 
 ### Gameplay
 
-La touche Tab indique votre etat de sante, le contenu de votre inventaire, mais aussi les crafts possibles, le recyclage des ressources, les elements requis pour vous soigner, etc ...
+La touche `Tab` indique votre etat de sante, le contenu de votre inventaire, mais aussi les crafts possibles, le recyclage des ressources, les elements requis pour vous soigner, etc ...
 
 The Long Dark est à part, pas de zombie, ou autres bestioles assoiffées de sang... La seule réelle menace finalement ... C'est l'environnement. Vous devrez gerer vos ressources, dormir, couper du bois ou encore depecer un biche precedement entammer par un loup.
 
