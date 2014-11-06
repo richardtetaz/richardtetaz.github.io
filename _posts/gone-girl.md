@@ -2,8 +2,7 @@
 layout: post
 title: Gone girl
 published: false
-category: book
-tags: [thriller]
+tags: ['lecture', 'polar', 'thriller']
 author: Richard
 ---
 

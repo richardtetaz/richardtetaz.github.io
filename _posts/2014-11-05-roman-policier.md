@@ -2,7 +2,7 @@
 layout: post
 title: Romans policiers
 published: true
-category: book
+tags: ['lecture', 'polar', 'thriller']
 author: Guillaume
 ---
 

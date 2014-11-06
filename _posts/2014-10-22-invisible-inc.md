@@ -2,8 +2,7 @@
 layout: post
 title: Invisible Inc.
 published: true
-category: gaming
-tags: ["hardcore", "infiltration", "tour par tour"]
+tags: ["gaming", "hardcore", "infiltration", "tour par tour"]
 author: Richard
 ---
 
