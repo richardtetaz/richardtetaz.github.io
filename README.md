@@ -1,10 +1,8 @@
-#War Machine
+#Panda Bot
 ======================
 
 ### Articles prevus
 
 - Snow (the game)
-- The long dark
 - Gone girl
-
-### Installation
+- Magic 2015
