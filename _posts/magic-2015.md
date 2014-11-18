@@ -1,0 +1,20 @@
+---
+layout: post
+title: Magic 2015
+published: false
+tags: ['game', 'card']
+author: Richard
+---
+
+Wizards of the Coast ne s'est certainement pas assis sur ses lauriers lorsque Hearthstone est apparu et a vu sa popularité grimpé. La dernière version de Magic 2015: Duels of the Planeswalkers apporte une caractéristique majeure, qui était sur les précédents opus, un défaut. Il s'agit de la construction du deck. Bien que cela puisse sembler normal depuis l'apparition d'Hearthstone, Magic a trouvé des points forts pour capitaliser et améliorer son gameplay par rapport au bébé de Blizzard.
+
+Principalement, cela vient des outils qui apparaissent beaucoup plus robuste que rien dans Heroes of Warcraft. Plutôt que de simplement montrer la courbe de mana, les decks sont classés par des critères tels que la vitesse ou la synergie. Si vous êtes désemparés par où commencer, vous pouvez utiliser un outil d'auto-complétion de deck qui cherche des synergies entre les cartes, au lieu de simplement suggérer cartes qui correspondent dans une certaine courbe.
+
+A titre d'exemple, un deck construit autour d'une seule carte: le Resolute Archange. Utilisation que une carte, l'outil de construction fabriqué à partir de l'ensemble d'un deck les cartes dans la collection. Il a choisi un Shadowcloak Vampire, avec la justification apparente que vous pouvez sacrifier un peu de la vie avec elle pour obtenir une capacité de vol, et ensuite utiliser l'Archange à restaurer la vie. Il était une impressionnante démonstration, et on m'a dit que le constructeur pourrait même fonctionner sans cartes du tout, simplement en regardant à travers la collecte et de trouver un ensemble synergique. Je lui ai demandé ce qui se passerait si vous avez essayé de construire une plate-forme autour d'une mauvaise combinaison, comme notamment plusieurs couleurs différentes de mana sans rime ni raison entre eux. "Il est en fin de compte un génie», a déclaré un représentant. "Si vous demandez un mauvais souhait, il vous donnera la meilleure version de cette mauvaise volonté."
+
+Cette itération inclura également des cartes conçues par ceux dans l'industrie des jeux, comme Markus "Notch" Persson et Richard Garriot de Ultima. Il est un petit moyen de prendre l'approche traditionnellement papier-numérique des jeux de magie et de laisser le jeu vidéo alimentation mondiale remettre.
+
+Contrairement à un jeu numérique, cependant, Planeswalkers est maintenue honnête par son équivalent papier. Alors que Blizzard peut polir ou nerfer une carte à volonté en réponse à jouer les données qu'il reçoit après la libération, l'équipe Magic est catégorique: elle a besoin d'obtenir des cartes dès la première fois.
+"Nous ne faisons pas de cartes de nerf", a déclaré le représentant. "Nous faisons de plus en plus de tester le jeu à peu près n'importe qui sur la planète. Un grand nombre de ces personnes sont des ex-joueurs professionnels, des gens qui sont vraiment au top du jeu quand il vient à trouver les meilleures cartes et tirer le meilleur d'entre eux . et ils sont les meilleures personnes pour regarder un ensemble et disent, 'Oh, ce doit coûter 4 au lieu de 3 ou il va se casser standard ouvert de large. "Nous avons donc tout ce travail à l'avant, et nous avons l'avantage de celui de Duels of the Planeswalkers parce que nous sommes dessin des cartes magiques physiques. "
+
+Malgré la réussite de HearthStone, l'équipe de Wizards of the Coast ne semble pas découragé. Magic a la longévité de son côté, et d'être le jeu de cartes à collectionner avec une longue tradition a ses avantages. "Finalement, si quelqu'un vient à ce genre de cartes à collectionner, mais ils y arrivent, ils viendront à la magie", a déclaré un autre représentant. "Si ils veulent que la profondeur de la stratégie et de gameplay, ils finiront par trouver leur chemin à la magie."

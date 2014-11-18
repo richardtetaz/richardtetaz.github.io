@@ -1,0 +1,36 @@
+body {
+	background-color: #E5E6EA;
+	color: #484C58;
+}
+
+.masthead-title small {
+	color: #484C58;
+}
+
+article.post {
+	background-color: white;
+	padding: 2em 2em;
+	border-radius: 3px;
+	border: 1px solid #DEDFE2;
+}
+
+.pagination-item {
+	background-color: white;
+	border: 1px solid #DEDFE2;
+	border-radius: 3px;
+}
+
+.post-title a,
+.masthead-title a,
+a.pagination-item {
+	color: #60A969;
+}
+
+.post-title {
+	text-transform: uppercase;
+}
+
+.post-label {
+	background-color: #78C182;
+	border-color: #55B161;
+}

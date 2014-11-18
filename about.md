@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Guillaume
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+### Richard
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My name is Richard Tetaz and I'm a developper. I specialise in web and in front-end development. I’m currently working for [Infomaniak](infomaniak.com) as a Developer and a Human resources manager. [My blog](http://codecuisine.io).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### About the site
 
-## Setup
+this site is:
 
-Some fun facts about the setup of this project include:
+- Designed with [Poole](http://getpoole.com)
+- Coded with Sublime Text
+- Built on Jekyll, the open source static site generator
+- Free hosted on GitHub Pages
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+For comments or questions, feel free to ask me on [GitHub](https://github.com/richardtetaz/richardtetaz.github.io), on [Twitter](https://twitter.com/richard_tetaz), or, if you really hate me, via email at richard dot tetaz at gmail dot com.
