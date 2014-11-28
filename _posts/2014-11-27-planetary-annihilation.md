@@ -6,11 +6,11 @@ tags: ["Sci-Fi", "RTS", "Space", "Strategy", "Multiplayer"]
 author: Richard
 ---
 
-Je ai failli ne pas acheter ce à cause des mauvaises critiques mais je suis très heureux que je ai fait et ce est ma raison pour laisser un commentaire. Comme un grand fan de Total Annihilation retour dans la journée je peux heureusement dire que je ne suis pas déçu par Annihilation planétaire, ce est un bon successeur de qualité et si vous avez aimé TA alors cela devrait vous ramener.
+J'ai failli ne pas acheter ce jeu à cause des mauvaises critiques durant son lancement mais je suis très heureux de l'avoir fait et c'est pour cette raison que je souhaite laisser un commentaire sur Planetary Annihilation. Etant fan de la serie Total Annihilation, Supreme Commander n'ayant pas comblé toutes mes attentes, j'attendais avec impatiance la sortie de ce jeu kickstarté et je peux heureusement dire que je ne suis pas déçu, c'est un excellent successeur si vous avez aimé TA.
 
-Il ya quelques problèmes d'équilibrage mineurs [de peu d'un commentaire noob à partir du moment de l'examen, le jeu semble assez bien équilibrée, mais je suis sûr que ça va être modifié en outre], mais cela devrait être fixé dans les patchs à venir. Le gameplay est amusant, très rapide et la stratégie est plus que suffisant pour faire profonde victoires satisfaisante mais pas trop complexe qu'il devient pénible ou désagréable.
+L'élite de sa communauté remonte quelques problèmes d'équilibrage (sachant que pour le noob que je suis, je ne remarque rien d'avantageux pour tel ou telle unité), mais cela devrait être fixé dans les patchs à venir. Le gameplay est amusant, très rapide et la stratégie est plus que suffisant pour jouer pendant plusieus heures.
 
-Je ai le sentiment que certains des commentaires négatifs et les plaintes concernant les éléments de la stratégie sont à un manque d'un tutoriel qui est une honte. Le jeu n'a pas de beaucoup, beaucoup d'unités et bâtiments et aucune mise à niveau de technologie et ainsi de suite, mais à mon avis ce est une bonne chose, il est beaucoup plus sur la carte de contrôle et de gestion des ressources, il est essentiellement assez simple, mais que les forces une forme plus pure de la stratégie du joueur qui doit penser et de réagir très rapidement et de façon créative.
+J'ai le sentiment que certains des commentaires négatifs et les plaintes concernant les éléments de la stratégie sont à un manque d'un tutoriel qui est une honte. Le jeu n'a pas de beaucoup, beaucoup d'unités et bâtiments et aucune mise à niveau de technologie et ainsi de suite, mais à mon avis ce est une bonne chose, il est beaucoup plus sur la carte de contrôle et de gestion des ressources, il est essentiellement assez simple, mais que les forces une forme plus pure de la stratégie du joueur qui doit penser et de réagir très rapidement et de façon créative.
 
 ### Points forts
 
