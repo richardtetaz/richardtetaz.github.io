@@ -6,6 +6,8 @@ tags: ["cooking", "hardcore", "keyboard"]
 author: Richard
 ---
 
+![1](http://cloud-4.steamusercontent.com/ugc/882994502355131166/BE37A081B0089602065574A441279AC3768966ED/)
+
 > Un jeux où on sert à manger et où on nettoie les chiottes.
 
 Cook, Serve and Delicious est un jeux qui va vous entrainer au multitasking ! Sous son aspect gentil cartoon et humoristique, se cache un jeux de scoring qui demande une exécution quasi parfaite... donc si vous voulez un *Cooking Mama* sous acid, vous allez être déçu car le public visé n'est pas du tout le même ^^
@@ -16,6 +18,8 @@ Avant de commencer votre journée, un budget vous ai attribué pour acheter votr
 
 Chaque jour est différents: certains aliments ont des bonus/malus selon le temps et les demandes de vos clients, donc il y a un peu de préparation à faire. Les parties sont courtes et intenses, mais la progression est assez lente: 4 heures pour avoir ma première étoiles sur les 5 au final, ça peut donner une estimation de la durée de vie, mais les recettes valent... plutot cheres donc au final on avance petit à petit et on a le temps de bien enregistrer les différentes recettes(qui peuvent être très compliquées).
 Enormément de challenges et évenements annexes et une difficulté extrême pour les méga bourrins qui connaissent toutes les recettes par coeur et qui peuvent géréer 8 clients en même temps (*respect!*).
+
+![2](http://cloud-4.steamusercontent.com/ugc/505827628439019298/0C6CBDF27BFD1779B0586926F426025C6C789BE5/)
 
 C'est graphiquement simple; un jeux bourré d'humour et une soundtrack très variée qui va de la *bossa nova*, à la musique d'acensceur, à des musique 8-bits...
 
