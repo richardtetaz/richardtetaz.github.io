@@ -21,6 +21,7 @@ article.post {
 }
 
 a,
+.post-title a
 .masthead-title a {
 	color: #60A969;
 }
