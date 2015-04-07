@@ -27,7 +27,8 @@ article.post {
 a,
 .page-title,
 .post-title,
-.post-title a {
+.post-title a,
+.masthead-title a {
 	color: #60A969;
 }
 
